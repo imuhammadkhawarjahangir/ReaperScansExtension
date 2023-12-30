@@ -13,7 +13,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="reapercomics.com"
+                    android:host="reaperscans.com"
                     android:pathPattern="/comics/..*"
                     android:scheme="https" />
             </intent-filter>
